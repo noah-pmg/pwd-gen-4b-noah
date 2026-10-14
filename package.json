@@ -1,0 +1,16 @@
+{
+  "name": "pwd-gen-4b-noah",
+  "version": "0.1.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Noah Paminger",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
